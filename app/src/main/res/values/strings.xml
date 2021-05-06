@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CA1 Practical2</string>
+    <string name="display">Processing normal scheduling for </string>
+    <string name="display2">Processing priority scheduling for </string>
+
+</resources>
